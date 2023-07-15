@@ -22,7 +22,12 @@ here is some inspirations for the centrifugal duct design
 
 by using the simpler fan duct design its better to use with centrifugal fan paralel to the structure to making it better to 3d model overal design and making it more easy to screw them in
 
+# Airflow and Fan Duct design
 
+to make a good fan duct design is important to know the correct way for the airflow of the nozzle and the airflow for the heatsink for the choosen hot end.
+
+studying how to design a nozzle airflow we need to know how to simulate fluid dynamics with air and velocity wich some research a free software to use after modeling is the https://www.simscale.com/ by watching 
+https://www.youtube.com/watch?v=Wun9EuVTV0w video we can see the correct and simpler process to view airflow of the tip of the nozzle, wich by analysing needs to be on the center and airflow touching the tip.
 
 
 
